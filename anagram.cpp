@@ -29,7 +29,7 @@ bool anagram(char *s1,char *s2)
 	
 int main()
 {
-	char str1[100]="Chat En",str2[100]="chetan";
+	char str1[100],str2[100];
 	
 	printf("enter first string\n");
 	gets(str1);
